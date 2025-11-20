@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72cfac009bc8fd84b8cc198167d48e24
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Texture/clay.txt
+  uploadId: 733023

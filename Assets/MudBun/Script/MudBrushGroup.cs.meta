@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba522f675f1c6d844920ea187d9340ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/MudBrushGroup.cs
+  uploadId: 733023

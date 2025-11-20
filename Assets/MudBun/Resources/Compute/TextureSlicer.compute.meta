@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 135bc823fab5e864286c8878fd3cc347
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Resources/Compute/TextureSlicer.compute
+  uploadId: 733023

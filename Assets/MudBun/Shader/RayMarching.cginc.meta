@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a2e03996155c974dab8c64d9c9feb9e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/RayMarching.cginc
+  uploadId: 733023

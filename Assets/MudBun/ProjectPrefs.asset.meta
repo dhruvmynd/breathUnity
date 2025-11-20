@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db846ea68b8f36741b6344704b5597d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/ProjectPrefs.asset
+  uploadId: 733023

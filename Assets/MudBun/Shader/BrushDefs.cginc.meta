@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c62e1200cb176934a88195c56ff11604
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/BrushDefs.cginc
+  uploadId: 733023

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed45078de0e3ce942b430b74247e6b5e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/Render/RayTracedVoxelsCommon.cginc
+  uploadId: 733023

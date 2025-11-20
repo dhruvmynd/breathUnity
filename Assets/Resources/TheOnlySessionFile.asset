@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db3463a03e50cc40a0850ae5871aa05, type: 3}
+  m_Name: TheOnlySessionFile
+  m_EditorClassIdentifier: 
+  signalSettings: {fileID: 11400000, guid: 81f6c864f608bfb4bae149b6be244abd, type: 2}
+  calibratedProfile: {fileID: 11400000, guid: fc66e1ddf4ba9924ba05e95afeef2c06, type: 2}
+  sessionName: Default Session
+  description: This should be the only session file you every need to create. Set
+    settings and default profile here, then have Calibration manager to change calibrated
+    profile to the new one.

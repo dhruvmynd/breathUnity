@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2bd0bb15326d8de4da8cb500df8f7d54
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/BrushFuncs.cginc
+  uploadId: 733023

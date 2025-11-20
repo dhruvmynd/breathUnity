@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a62fbaaa531e25548a7294608aa4d4a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/Util/Component/MudNoiseScroller.cs
+  uploadId: 733023

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c5d203bfa2c42624e8fef2207b690de1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/Util/ConditionalFieldAttributeDrawer.cs
+  uploadId: 733023

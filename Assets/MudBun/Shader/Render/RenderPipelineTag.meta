@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2ab697a59131e349b7c8934e5334a56
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/Render/RenderPipelineTag
+  uploadId: 733023

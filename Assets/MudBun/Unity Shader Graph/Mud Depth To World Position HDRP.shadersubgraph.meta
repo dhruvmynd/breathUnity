@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: db7ed6be270c5934791c13d191037f5f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Unity Shader Graph/Mud Depth To World Position HDRP.shadersubgraph
+  uploadId: 733023

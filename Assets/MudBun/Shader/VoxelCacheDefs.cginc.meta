@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b7076ad2a23ff7a4fbd23d961584f23a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/VoxelCacheDefs.cginc
+  uploadId: 733023

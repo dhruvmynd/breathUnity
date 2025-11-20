@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 85b9f0f9d08108c42bb5c068bc08cf1b
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Unity Shader Graph/MudNoiseGradient.cginc
+  uploadId: 733023

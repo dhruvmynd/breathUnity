@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad8ac64a8ea4a9144a9445f94c52fddc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Customization/CustomBone.cginc
+  uploadId: 733023

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1947d49d4d7bb92419410ba0439aa2bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Amplify Shader Editor/Mud Splat.asset
+  uploadId: 733023

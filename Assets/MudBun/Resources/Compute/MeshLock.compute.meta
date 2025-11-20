@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15faedca97f0af4448034f59f8cfbc75
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Resources/Compute/MeshLock.compute
+  uploadId: 733023

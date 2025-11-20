@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fa89081643259a543bf0f9f2dc1300cc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/Math/Vector.cginc
+  uploadId: 733023

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e852d829c33f73041b4f9b1e3e998781
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/MarchingCubesDefs.cginc
+  uploadId: 733023

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fdfa7229b0798c44cb4e2a3df96d45ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Customization/Editor/CustomCreationMenu.cs
+  uploadId: 733023

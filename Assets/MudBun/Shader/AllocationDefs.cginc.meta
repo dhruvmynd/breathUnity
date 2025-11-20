@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77c3a71252c441e4da90087e22a26648
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/AllocationDefs.cginc
+  uploadId: 733023

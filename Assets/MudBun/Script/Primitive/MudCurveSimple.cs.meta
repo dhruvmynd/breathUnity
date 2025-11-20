@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9de964585f760f7478bf1210cf0d8619
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/Primitive/MudCurveSimple.cs
+  uploadId: 733023

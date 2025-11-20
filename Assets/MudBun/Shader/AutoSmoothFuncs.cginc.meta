@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8bd843340264dfb47b95a1786d094cee
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/AutoSmoothFuncs.cginc
+  uploadId: 733023

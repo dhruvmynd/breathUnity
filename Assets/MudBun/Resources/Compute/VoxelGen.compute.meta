@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04b9e8c5511e2bc4f9526b28829dc59a
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Resources/Compute/VoxelGen.compute
+  uploadId: 733023

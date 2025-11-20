@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af4f151c90789ca46afb6dbe44fa3f8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/Effect/MudParticleSystem.cs
+  uploadId: 733023

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ae93a0b8ff0842e468b4d8831831942b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/Distortion/MudFishEye.cs
+  uploadId: 733023

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58ffb1a42fd9a8f4cbe0eb430a73b29d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/MudLockedMeshRenderer.cs
+  uploadId: 733023

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f0ecacbb0c7d3b248a4a1f32a5019e17
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/AabbTreeDefs.cginc
+  uploadId: 733023

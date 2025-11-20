@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52d8f686707c4de4daebdf99c3363064
+timeCreated: 1543441786
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134833
+  packageName: RASCAL Skinned Mesh Collider
+  packageVersion: 1.4
+  assetPath: Assets/RASCAL/ExampleScenes/Demo_IMPORT_UNITY-CHAN.unity
+  uploadId: 503250

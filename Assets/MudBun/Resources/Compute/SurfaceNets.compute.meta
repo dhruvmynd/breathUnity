@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9241156987b1f4045b4e04f9916183cf
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Resources/Compute/SurfaceNets.compute
+  uploadId: 733023

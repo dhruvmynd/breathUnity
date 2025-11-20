@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c05b16f88a1d0ba419095712496e35e6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/Noise/SimplexNoise2D.cginc
+  uploadId: 733023

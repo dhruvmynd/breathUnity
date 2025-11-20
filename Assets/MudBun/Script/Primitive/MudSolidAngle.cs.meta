@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 73c6499a22a3e0a4098d1b3f96db799a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/Primitive/MudSolidAngle.cs
+  uploadId: 733023

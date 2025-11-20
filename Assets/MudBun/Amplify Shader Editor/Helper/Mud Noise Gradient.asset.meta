@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ded4656e0e0531448b1f2a26fd64d584
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Amplify Shader Editor/Helper/Mud Noise Gradient.asset
+  uploadId: 733023

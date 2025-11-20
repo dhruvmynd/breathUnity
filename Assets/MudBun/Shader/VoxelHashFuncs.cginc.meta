@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e8d258a86def3b40ad7989b693b71e0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/VoxelHashFuncs.cginc
+  uploadId: 733023

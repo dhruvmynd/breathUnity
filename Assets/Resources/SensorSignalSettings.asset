@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1bfa7959a247947a0a592b49fe23f8, type: 3}
+  m_Name: SensorSignalSettings
+  m_EditorClassIdentifier: 
+  udpReceivePort: 11000
+  udpSendPort: 11001
+  globalMin: -30
+  globalMax: 30
+  breathingSignalType: 1
+  smoothingMode: 0
+  enableSimpleSmoothing: 0
+  simpleSmoothingFactor: 0.3
+  logBreathingValues: 0
+  enableKalmanFilter: 1
+  kalmanProcessVariance: 0.001
+  kalmanMeasurementVariance: 0.5
+  holdRange: {x: -0.01, y: 0.03}
+  slopeSampleCount: 20
+  directionChangeThreshold: 0.1
+  remappingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.4747087
+      value: 0.31302014
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  fallbackCalibratedProfile: {fileID: 11400000, guid: fc66e1ddf4ba9924ba05e95afeef2c06, type: 2}

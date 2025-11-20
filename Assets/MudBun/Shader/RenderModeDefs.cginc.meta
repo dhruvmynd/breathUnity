@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 323c48ef1775aab488f6eec2c057ba99
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/RenderModeDefs.cginc
+  uploadId: 733023

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9088f0d6015c424b98757b174010394
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Amplify Shader Editor/Helper/Mud Triplanar Sample.asset
+  uploadId: 733023

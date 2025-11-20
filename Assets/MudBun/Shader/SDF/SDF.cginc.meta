@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c288864a6425b3438817ec4721b2251
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/SDF/SDF.cginc
+  uploadId: 733023

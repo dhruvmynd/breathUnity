@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a49798c5bbb1614bb74b9f7cce48894
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/MudStandardMeshRenderer.cs
+  uploadId: 733023

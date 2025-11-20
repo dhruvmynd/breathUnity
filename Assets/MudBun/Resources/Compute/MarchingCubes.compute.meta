@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adf59b622c1d8e24f95349613dea9b07
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Resources/Compute/MarchingCubes.compute
+  uploadId: 733023

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d01d4bf0c6685d488373203eff22f43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Script/Editor/MudSplatSingleTexturedMaterialEditor.cs
+  uploadId: 733023

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 194403d43f26bc94d97409fc891e1816
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Amplify Shader Editor/Helper/Mud Texture Blend.asset
+  uploadId: 733023

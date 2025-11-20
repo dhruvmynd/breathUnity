@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d6d41152c5085d749b5d5d890fa0dc81
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Shader/Noise/RandomNoise.cginc
+  uploadId: 733023

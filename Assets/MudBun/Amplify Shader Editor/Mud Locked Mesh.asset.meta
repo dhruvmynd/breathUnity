@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b8a07bde06607c4284a51a0d43ac96d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Amplify Shader Editor/Mud Locked Mesh.asset
+  uploadId: 733023

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cfd825e600501ba479519645aba6ff83
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177891
+  packageName: 'MudBun: Volumetric VFX & Modeling'
+  packageVersion: 1.6.52
+  assetPath: Assets/MudBun/Unity Shader Graph/MudSplatShaderGraph.cginc
+  uploadId: 733023
