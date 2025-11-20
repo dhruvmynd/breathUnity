@@ -98,3 +98,9 @@ build/
 ehthumbs.db
 Thumbs.db
 
+# Large files that exceed GitHub limits
+Assets/Editor/x64/Bakery/
+Assets/BakeryLightmaps/
+*.dll
+*.tga
+
